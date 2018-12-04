@@ -95,3 +95,12 @@ Hasil Sreenshot
 
 
 ![sslatihan3](https://user-images.githubusercontent.com/44091204/49415258-b949fb80-f7a8-11e8-9a50-4e2c3ef7cc64.jpg)
+
+
+fibonacci
+
+![untitled](https://user-images.githubusercontent.com/44091204/49415481-7c323900-f7a9-11e8-8b84-b7baf8691013.jpg)
+
+fungsi iterasi
+
+![untitled](https://user-images.githubusercontent.com/44091204/49415525-a1bf4280-f7a9-11e8-919a-945b43e01f54.jpg)
